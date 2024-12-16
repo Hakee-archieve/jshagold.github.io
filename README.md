@@ -1,2 +1,3 @@
 # jshagold.github.io
-Git Blog
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
